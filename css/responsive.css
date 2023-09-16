@@ -54,7 +54,9 @@
 		margin: 0 auto;
 	}
 	.service-box {
-		padding:30px 20px;
+		width: 23rem;
+		height: 16rem;
+		padding: 20px;
 	}
 	.testimonial-content {
 		font-size:18px;
